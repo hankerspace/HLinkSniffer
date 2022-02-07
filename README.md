@@ -24,7 +24,7 @@ The data wire (RX) is connected to the left pin of the HLINK led on the main PCB
 
 The 5VCC gets using the 12VCC power line of the HLINK connector. You'll need a 12VCC to 5VCC converters to power the Pi. You need to get the power from this PCB because ground must be common in order to properly read the data coming from the serial protocol.
 
-![Wiring scematics](schematics.png)
+![Wiring scematics](Schematics.png)
 
 ## Software
 
